@@ -1,0 +1,57 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+fieldset{
+    border:1px solid #ddd !important;
+    margin:10px;
+    /*xmin-width:0;*/
+    padding:0px;
+    position:relative;
+    border-radius:4px;
+    background-color:rgba(234, 154, 101, 0.86);
+    padding-left:10px !important;
+    
+    
+}
+
+legend{
+    color: #000000;
+    font-size:14px;
+    font-weight:bold;
+    margin-bottom:0px;
+    width:35%;
+    border:1px solid #ddd;
+    border-radius:4px;
+    padding:5px 5px 5px 10px;
+    background:linear-gradient(#f87449,#d78769,#c69180);
+    
+}
+
+#btnCheckOut{
+    float:right;    
+}
+
+.modal{
+    background-image:url()   
+}
+
+.modal{
+    text-align:center;
+    padding:0!important;
+}
+
+.modal:before{
+    content:'';
+    display:inline-block;
+    height:100%;
+    vertical-align:middle;
+    margin-right:-4px;
+}
+
+.modal-dialog{
+    display:inline-block;
+    text-align:left;
+    vertical-align:middle;
+}
