@@ -4,7 +4,7 @@
 This project is a web-based application developed using C#, MVC framework, Bootstrap 3.0.0, Visual Studio, and MSSQL Server. The purpose of this application is to streamline the billing process in a restaurant environment, providing an efficient and user-friendly interface for managing orders, generating bills, and handling transactions.
 
 ## 🔧 Installation
-1. Clone this repository to your local machine.
+1. Clone this repository to my local machine.
 2. Open the project in Visual Studio.
 3. Ensure you have MSSQL Server installed and configured.
 4. Modify the connection string in the `web.config` file to match your MSSQL Server credentials.
@@ -28,7 +28,7 @@ This project is a web-based application developed using C#, MVC framework, Boots
 Contributions are welcome! If you'd like to enhance the application or fix any bugs, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## 📞 Support
-For any inquiries or assistance, please contact [your contact information].
+For any inquiries or assistance, please contact [+919360982027].
 
 ## 🔒 License
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
